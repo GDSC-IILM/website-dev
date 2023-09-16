@@ -1,11 +1,12 @@
 - title: 'Developer Student Club' # for <title> tag
-  description: 'Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems' #Meta description
+  description: 'Developer Student Clubs(DSC) is a Google Developers program for University students to acquire technical skills and solve problems' #Meta description
   university: 'IILM UNIVERSITY'
   lang: 'en'
   register: '' # optional
   calendar: '' # optional
   mail: '' # optional
   social:
+    Linktree: 'Linktr.ee/gdsciilm'
     youtube: 'https://youtube.com/@GDSCIILM?si=L-j3rq5iRGNgyvdO'
     github: 'https://github.com/GDSC-IILM'
     twitter: 'https://twitter.com/GDSC_IILM_CET'
